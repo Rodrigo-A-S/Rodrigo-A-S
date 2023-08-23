@@ -1,4 +1,4 @@
-### Oi! Sou o Rodrigo Silva, Enfermeiro e estudante de Desenvolvimento Web 👋
+### Oi! Sou o Rodrigo Silva, Enfermeiro, Editor de Imagens e estudante de Desenvolvimento Web 👋
 
 - 🔭 Estou trabalhando com Adobe Photoshop
 - 🌱 Estudando Frontend
