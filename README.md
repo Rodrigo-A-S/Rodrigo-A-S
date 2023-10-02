@@ -1,5 +1,6 @@
-### Oi! Sou o Rodrigo Silva, Enfermeiro, Editor de Imagens e estudante de Desenvolvimento Web 👋
+### Oi! Sou o Rodrigo Silva, Graduando em Enfermagem e Autodidata Front-end 👋
 
-- 🔭 Estou trabalhando com Adobe Photoshop
-- 🌱 Estudando Frontend
+- 👨🏻‍⚕️ Enfermeiro em Jan - 2024
+- 📘 Estudando JavaScript e React
+- 🦉Conhecimento: HTML e CSS
 - 📫 Como me contactar: rodrigoenf2023@gmail.com
